@@ -1,0 +1,7 @@
+{
+  "port": 21500,
+  "fps": 60,
+  "max_pixels": 3686400,
+  "crf": 23,
+  "max_bitrate_kbps": 15000
+}
