@@ -338,4 +338,6 @@ remote-desktop-window/
 
 ## 라이선스
 
-[The Unlicense](LICENSE) — 퍼블릭 도메인. 누구나 자유롭게 사용·수정·배포할 수 있습니다.
+[MIT License](LICENSE) © 2026 Mithpasong
+
+누구나 자유롭게 사용·수정·배포(상업적 이용 포함)할 수 있습니다. 단, 소스를 재사용할 때는 저작권 표시와 라이선스 문구를 함께 포함해야 합니다.
